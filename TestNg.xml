@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "C:\Users\hp\Downloads/testng-1.0.dtd">
+<suite name="TestSuite" verbose="7">
+      <test name="Testcases">
+        <groups>
+        <run>
+        <include name="apple1"></include>
+        <include name="apple2"></include>
+        <include name="moto1"></include>
+        <include name="moto2"></include>
+        </run>
+        </groups>
+        
+        <classes>
+        
+            <class name="testngexamples.Expriority" />
+          <class name="testngexamples.Exdependency" />
+            <class name="testngexamples.Exgroups" />
+        </classes>
+    </test>
+</suite>

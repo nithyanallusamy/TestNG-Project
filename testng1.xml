@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "C:\Users\hp\Downloads/testng-1.0.dtd">
+<suite name="TestSuite1" verbose="7">
+      <test name="Testcases1">
+      <parameter name="name" value="nithya"></parameter>
+      <parameter name="name1" value="nallusamy"></parameter>
+      <classes>
+      <class name="testngexamples.Exparameter" />
+      </classes>
+      </test>
+</suite>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-07T22:41:09 IST" name="TestSuite1" finished-at="2024-10-07T22:41:09 IST" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2024-10-07T22:41:09 IST" name="Testcases1" finished-at="2024-10-07T22:41:09 IST" duration-ms="78">
+      <class name="testngexamples.Exparameter">
+        <test-method signature="printname(java.lang.String)[pri:0, instance:testngexamples.Exparameter@54c5a2ff]" started-at="2024-10-07T22:41:09 IST" name="printname" finished-at="2024-10-07T22:41:09 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nithya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printname -->
+        <test-method signature="printname1(java.lang.String)[pri:0, instance:testngexamples.Exparameter@54c5a2ff]" started-at="2024-10-07T22:41:09 IST" name="printname1" finished-at="2024-10-07T22:41:09 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nithya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printname1 -->
+      </class> <!-- testngexamples.Exparameter -->
+    </test> <!-- Testcases1 -->
+  </suite> <!-- TestSuite1 -->
+</testng-results>
